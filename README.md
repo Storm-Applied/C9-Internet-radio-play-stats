@@ -24,12 +24,14 @@ Output of our drpc query will appear amongst regular output shortly before clust
 
 Output can be read thusly:
 
+```
 ["FULL QUERY", "Genre", Play Count]
 
 RESULTS
 ==========================================================================
 [["Classic Rock,Punk,Post Punk","Punk",846],["Classic Rock,Punk,Post Punk","Post Punk",121],["Classic Rock,Punk,Post Punk","Classic Rock",null]]
 ==========================================================================
+```
 
 so in the above
 
