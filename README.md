@@ -43,7 +43,7 @@ To Run this topology in remote mode:
 
 * Replace pom.xml with pom.xml.remote
 * Compile the project, producing a jar as per normal
-* Deploy to your storm cluster
+* Deploy to your storm cluster (see Chapter 5 for how to do this)
 * Create a DRPC client such like the following and run it against your cluster:
 
 ```
